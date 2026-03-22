@@ -1,6 +1,6 @@
 [project]
 name = "axio-transport-codex"
-version = "0.1.0"
+version = "0.2.1"
 description = "ChatGPT (Codex) OAuth transport for Axio using Responses API"
 requires-python = ">=3.12"
 license = {text = "MIT"}
